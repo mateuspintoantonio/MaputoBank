@@ -106,3 +106,31 @@ MaputoBank/
     ├── visao_geral.png
     ├── analise_clientes.png
     └── analise_contas.png
+
+## Documentação
+
+A documentação completa do projecto apresenta:
+
+- contexto e problema de negócio;
+- estrutura e modelação dos dados;
+- auditoria e tratamento da qualidade dos dados;
+- análise SQL;
+- preparação e modelação no Power BI;
+- medidas DAX;
+- desenvolvimento do dashboard;
+- conclusões e recomendações.
+
+## Possíveis melhorias
+
+Como evolução futura, o projecto poderá incorporar:
+
+- Incorporar novos indicadores de desempenho e rentabilidade.
+- Integrar dados históricos de saldos para permitir análises temporais.
+- Automatizar a actualização dos dados e dos indicadores.
+- Expandir a análise de clientes e serviços bancários.
+
+## Autor
+
+**Mateus Pinto António**
+
+Projecto desenvolvido para demonstrar competências em **análise de dados, SQL, preparação e modelação de dados, DAX e visualização com Power BI**.
