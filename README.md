@@ -124,13 +124,13 @@ A documentação completa do projecto apresenta:
 
 Como evolução futura, o projecto poderá incorporar:
 
-- Incorporar novos indicadores de desempenho e rentabilidade.
-- Integrar dados históricos de saldos para permitir análises temporais.
-- Automatizar a actualização dos dados e dos indicadores.
-- Expandir a análise de clientes e serviços bancários.
+- novos indicadores de desempenho e rentabilidade;
+- integração de dados históricos de saldos para permitir análises temporais;
+- automatização da actualização dos dados e dos indicadores;
+- expansão da análise de clientes e serviços bancários.
 
 ## Autor
 
 **Mateus Pinto António**
 
-Projecto desenvolvido para demonstrar competências em **análise de dados, SQL, preparação e modelação de dados, DAX e visualização com Power BI**.
+Projecto desenvolvido para demonstrar competências em **análise de dados, SQL, preparação e modelação de dados, DAX e visualização com Power BI**.  
