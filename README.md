@@ -107,5 +107,4 @@ MaputoBank/
     ├── analise_clientes.png
     └── analise_contas.png
 
-## Documentação
 
